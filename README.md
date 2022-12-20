@@ -16,13 +16,13 @@ Features
 At Glance
 --------
 Basic
-ToastManager.shared.show(text: "토스트 한 줄입니다.")
+- `ToastManager.shared.show(text: "토스트 한 줄입니다.")`
 
 BottomOffset 추가 시
-ToastManager.shared.show(text: "토스트 한 줄입니다.", bottomOffset: ToastManager.BottomOffset.Tabbar)
+- `ToastManager.shared.show(text: "토스트 한 줄입니다.", bottomOffset: ToastManager.BottomOffset.Tabbar)`
 
 BottomOffset Custom 값 추가 시
-ToastManager.shared.show(text: "토스트 한 줄입니다.", bottomOffset: 128.0)
+- `ToastManager.shared.show(text: "토스트 한 줄입니다.", bottomOffset: 128.0)`
 
 License
 -------
