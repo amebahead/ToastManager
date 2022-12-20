@@ -1,6 +1,7 @@
 ToastManager
 =======
-ToastManager is Simple Toast Class, is inspired by [Toaster](https://github.com/devxoul/Toaster/)
+ToastManager is Simple Toast Component(similar snackbar)
+inspired by [Toaster](https://github.com/devxoul/Toaster/)
 
 Screenshots
 =======
