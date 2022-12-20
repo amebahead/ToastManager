@@ -1,6 +1,6 @@
 ToastManager
 =======
-ToastManager is Simple Toast Component(similar snackbar)
+ToastManager is Simple Toast Component(similar snackbar) <br>
 inspired by [Toaster](https://github.com/devxoul/Toaster/)
 
 Screenshots
